@@ -1,10 +1,8 @@
 # Welcome to the SnakeGame
-It is a team project for our CS151(object oriented design) course and the project was implemented by Java.
-Due to the Nokia cellphone was popular, the SnakeGame became famous. 
-The game has two different modes including, one player mode and two player mode. 
+Since the Nokia cellphone was popular, the SnakeGame became famous during the 20th century. 
+This game has two different modes including, one player and two player mode. 
 For the one player mode, the game will terminate when the snake's head touch itself body. 
-For the two player mode, the game will terminate not only one of snake's head touch itself but also the two snake touch each other.
-
+For the two player mode, the game will terminate not only when one of snake's head touch itself but also the two snake touch each other.
 
 ## How to run the game
 
@@ -24,4 +22,17 @@ For the two player mode, the game will terminate not only one of snake's head to
     
     6. type "java TestMenu" in command line.
    
+## Credit
+It is a final team project for our CS151(object oriented design) course.
+The following people contribute for this project 
+
+    1.Hing Li
+    
+    2.Yan Ding
+    
+    3.Yenni Lam
+    
+    4.Xochitl Medina Arreola
+    
+    5.Alisha Mehndiratta
 
