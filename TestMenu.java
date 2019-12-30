@@ -261,7 +261,7 @@ class Menu extends JFrame
 		c.setBackground(new Color(192,192,192));
 		c.add(backgroundImagePanel);
 		c.add(wholePanel);
-		if((int)toolkit.getScreenSize().getHeight()>=1200)
+		if((int)toolkit.getScreenSize().getHeight()>=1000)
 		{
 			setBounds(((int)toolkit.getScreenSize().getWidth()-1280)/2,((int)toolkit.getScreenSize().getHeight()-1000)/2,1280,1000);
 		}
