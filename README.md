@@ -6,7 +6,7 @@ For the two player mode, the game will terminate not only when one of snake's he
 
 ## How to run the game
 
-    1.Please download all the Java source files, picture file. 
+    1.Please download all the Java source files and picture files. 
     
     2.Create a new folder in your desktop and name it as "SnakeGame"
     
