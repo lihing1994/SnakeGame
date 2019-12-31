@@ -1,8 +1,8 @@
 # Welcome to the Snake Game
-Since the Nokia cellphone was popular, the SnakeGame became famous during the 20th century. 
-This game has two different modes including, one player and two player mode. 
-For the one player mode, the game will terminate when the snake's head touch itself body. 
-For the two player mode, the game will terminate not only when one of snake's head touch itself but also the two snake touch each other.
+- Since the Nokia cellphone was popular, the Snake Game became famous during the 20th century. 
+  This game have one player and two player mode. 
+  For the one player mode, the game will terminate when the snake's head touch itself body. 
+  For the two player mode, the game will terminate not only when one of snake's head touch itself but also the two snake touch    each other.
 
 ## How to run the game
 
@@ -35,7 +35,8 @@ For the two player mode, the game will terminate not only when one of snake's he
   
 
 ## Bug and issuse
-    Since this projec is not fully completed yet, there is/are following bugs/issues was/were discoved and need to be fix in the future.
+    Since this projec is not fully completed yet, there is/are following bugs/issues was/were discoved 
+    and need to be fix in the future.
    
 - The game may not work ideally when screen resolution is too small. As you can see the picture in the below, the button to start game can no be displayed because the scree resolution is too small.(The game should run perfectly, if you run the game in a computer with at least 15 inch size of screen. According to the testing record, the game should run ideally at least in MacBook Pro 15 inch, MacBook Pro 16 inch, and Dell XPS 15.)
 ![59688134793__3C0B5DA7-467C-46E2-BB5B-4D3B5307E8D8](https://user-images.githubusercontent.com/25276186/71610322-cd476480-2b44-11ea-8709-9783b3c5a479.jpeg)
