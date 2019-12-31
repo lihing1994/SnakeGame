@@ -29,9 +29,9 @@ For the two player mode, the game will terminate not only when one of snake's he
 
 ## How to play the game
 
-- For one player mode, you can use "W","S","A","D" or "↑","↓","←","→" to make the snake go to up,down,left and right.
+- For one player mode, you can press "W","S","A","D" or "↑","↓","←","→" to make the snake go to up,down,left and right.
 
-- For two player mode, the first player user "W","S","A","D" to contrl the one of the snake. The another player use "↑","↓","←","→" to control another snake. 
+- For two player mode, one player use "W","S","A","D" to contrl the first snake. The another player use "↑","↓","←","→" to control the second snake. 
   
 
 ## Bug and issuse
