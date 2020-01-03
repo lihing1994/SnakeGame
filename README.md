@@ -41,6 +41,8 @@
 - The game may not work ideally when screen resolution is too small. As you can see the picture in the below, the button to start game can no be displayed because the scree resolution is too small.(The game should run perfectly, if you run the game in a computer with at least 15 inch size of screen. According to the testing record, the game should run ideally at least in MacBook Pro 15 inch, MacBook Pro 16 inch, and Dell XPS 15.)
 ![59688134793__3C0B5DA7-467C-46E2-BB5B-4D3B5307E8D8](https://user-images.githubusercontent.com/25276186/71610322-cd476480-2b44-11ea-8709-9783b3c5a479.jpeg)
 
-# Reference 
+## Credit
+Hing Li
+## Reference 
 - https://www.youtube.com/watch?v=bR5Ul9Bujf0&t=3s
 
